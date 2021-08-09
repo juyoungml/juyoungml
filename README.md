@@ -1,4 +1,6 @@
-### Hi there! I'm [Ju Young Suk (Scott Suk)](https://github.com/scottsuk0306/scottsuk0306.github.io)👋
+### Hi there! I'm [Ju Young Suk (Scott Suk)](https://scottsuk0306.github.io/)👋
+
+I am a student majoring Computer Science and submajoring Electrical Engineering at [KAIST](https://www.kaist.ac.kr/en/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
