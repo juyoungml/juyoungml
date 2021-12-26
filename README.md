@@ -1,6 +1,8 @@
 ### Hi there! I'm [JuYoung Suk (Scott Suk)](https://scottsuk0306.github.io/)👋
 ![](https://komarev.com/ghpvc/?username=scottsuk0306)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fscottsuk0306)](https://github.com/scottsuk0306)
+
 I am a student majoring Computer Science at [KAIST](https://www.kaist.ac.kr/en/).
 
 ### 🌱 I’m currently learning ...
