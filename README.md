@@ -9,7 +9,7 @@ I am a student majoring Computer Science at [KAIST](https://www.kaist.ac.kr/en/)
 - Programming Languages: C, C++, Python, Scala, etc
 - Machine Learning, Natural Language Processing
 - Web Application Development
-- Basics of System Hacking
+- Blockchain
 
 ### ✨ I'm especially interested in ...
 - Solving real-world problems with programming
