@@ -3,7 +3,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fscottsuk0306)](https://github.com/scottsuk0306)
 
 I am a student majoring Computer Science at [KAIST](https://www.kaist.ac.kr/en/).
+
 This is my [blog](https://scottsuk0306.github.io) where I read papers and share my understandings.
+
 I also write about development logs and CS related notes [here](https://velog.io/@scottsuk0306).
 
 ### 🌱 I’m currently learning ...
