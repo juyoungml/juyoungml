@@ -4,7 +4,7 @@
 
 I am a M.S. Student at KAIST, advised by Minjoon Seo.
 
-I am interested in developing evaluation methods for {LLMs, VLLMs, and others} and utilizing them to enhance its ability. I also love building applications for solving real world problems.
+I am interested in developing evaluation methods for {LLMs, VLMs, and others} and utilizing them to enhance its ability. I also love building applications for solving real world problems.
 
 Reach out to me via email (juyoung@kaist.ac.kr) if you have any questions, or would like to collaborate with me!
 
