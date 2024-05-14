@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fscottsuk0306)](https://github.com/scottsuk0306)
 
-I am a M.S. Student at KAIST, advised by Minjoon Seo.
+I am a M.S. Student at KAIST AI, advised by Minjoon Seo.
 
 I am interested in developing evaluation methods for {LLMs, VLMs, and others} and utilizing them to enhance its ability. I also love building applications for solving real world problems.
 
