@@ -1,8 +1,9 @@
-### Hi there! I'm [JuYoung Suk (석주영)](https://scottsuk0306.github.io/about)👋
+### Hi there! I'm Juyoung 👋
 
-I am a M.S. Student at KAIST AI, advised by Minjoon Seo.
+I'm currently pursuing my M.S. at KAIST AI under the guidance of Minjoon Seo.
 
-I am interested in training strong {LLMs, LMMs, and others} with specailized capability (ex. evaluation) and utilizing them. I also love building tools and demos for real-world application of AI. 
+I am currently focusing on training foundation models at scale and optimizing them for real-world applications.
 
-Reach out to me via email (juyoung@kaist.ac.kr) if you have any questions, or would like to collaborate with me!
+You might know me from my work on [Prometheus 2](https://arxiv.org/abs/2405.01535) and [Trillion-7B](https://arxiv.org/abs/2504.15431).
 
+If you have questions or collaboration ideas, please reach out via email (juyoung@kaist.ac.kr)!
